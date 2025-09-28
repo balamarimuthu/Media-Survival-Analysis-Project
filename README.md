@@ -19,7 +19,7 @@ The video walks through the complete data story — from the initial problem to 
 Below is a snapshot of the final, single-page executive dashboard created in Power BI.  
 The full, interactive `.pbit` file is included in this repository.  
 
-![Power BI Dashboard Screenshot]( src="https://github.com/user-attachments/assets/7efee0ac-0fae-4a47-b14b-eab808880880" /) <!-- Replace with actual screenshot path -->
+![Power BI Dashboard Screenshot](#src="https://github.com/user-attachments/assets/7efee0ac-0fae-4a47-b14b-eab808880880") <!-- Replace with actual screenshot path -->
 
 ---
 
@@ -82,4 +82,4 @@ Key findings proved the following hypotheses:
 ## 📬 Contact  
 
 For any questions or collaboration opportunities:  
-[LinkedIn](#) | [Email](#) <!-- Replace # with your links -->
+[LinkedIn](#https://www.linkedin.com/public-profile/settings) | [Email](#balapathibalapathi0397@gamil.com) <!-- Replace # with your links -->
