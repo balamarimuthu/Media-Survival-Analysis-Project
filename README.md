@@ -1,4 +1,4 @@
-# Media Survival Analysis: A Data-Driven Diagnosis of Bharat Herald (2019–2024)
+<img width="1332" height="747" alt="{7ED8AD94-93FB-4954-B67B-C6820A99BDD3}" src="https://github.com/user-attachments/assets/7efee0ac-0fae-4a47-b14b-eab808880880" /># Media Survival Analysis: A Data-Driven Diagnosis of Bharat Herald (2019–2024)
 
 **Author:** Peter Pandey (Bala Marimuthu)  
 **Project for:** Codebasics Resume Project Challenge 
@@ -19,7 +19,7 @@ The video walks through the complete data story — from the initial problem to 
 Below is a snapshot of the final, single-page executive dashboard created in Power BI.  
 The full, interactive `.pbit` file is included in this repository.  
 
-![Power BI Dashboard Screenshot](path/to/screenshot.png) <!-- Replace with actual screenshot path -->
+![Power BI Dashboard Screenshot](.png) <!-- Replace with actual screenshot path -->
 
 ---
 
