@@ -82,4 +82,4 @@ Key findings proved the following hypotheses:
 ## 📬 Contact  
 
 For any questions or collaboration opportunities:  
-[LinkedIn](#https://www.linkedin.com/public-profile/settings) | [Email](#balapathibalapathi0397@gamil.com) <!-- Replace # with your links -->
+[LinkedIn](#www.linkedin.com/in/r-bala-marimuthu-380501304) | [Email](#balapathibalapathi0397@gamil.com) <!-- Replace # with your links -->
