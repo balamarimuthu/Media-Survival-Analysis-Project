@@ -1,47 +1,85 @@
-Media Survival Analysis: A Data-Driven Diagnosis of Bharat Herald (2019-2024)
-Author: Peter Pandey (Bala Marimuthu)
-Project for: Codebasics Resume Project Challenge (CRPC-8)
+# Media Survival Analysis: A Data-Driven Diagnosis of Bharat Herald (2019–2024)
 
-🎥 Video Presentation
-The final findings of this project were presented in a video format. The video walks through the complete data story, from the initial problem to the final, data-driven diagnosis.
+**Author:** Peter Pandey (Bala Marimuthu)  
+**Project for:** Codebasics Resume Project Challenge (CRPC-8)
 
->> Watch the Full Video Presentation on LinkedIn <<
+---
 
-📊 Live Interactive Dashboard
-Below is a snapshot of the final, single-page executive dashboard created in Power BI. The full, interactive .pbit file is available in this repository.
+## 🎥 Video Presentation  
 
-(Insert a screenshot of your final, single-page Power BI dashboard here)
+The final findings of this project were presented in a video format.  
+The video walks through the complete data story — from the initial problem to the final, data-driven diagnosis.  
 
-🎯 Problem Statement
-Bharat Herald, a legacy newspaper with a 70-year history, is facing a severe crisis. Print circulation has dropped by over 50% from 2019 to 2024. The company's 2021 digital pilot failed, and it is now on the brink of bankruptcy. My task, as the data analyst Peter Pandey, was to conduct a comprehensive analysis of the company's operational and financial data to diagnose the root causes of this decline.
+[▶️ **Watch the Full Video Presentation on LinkedIn**](#) <!-- Replace # with your actual LinkedIn video link -->
 
-💡 Key Findings & Hypotheses
-My analysis of the data revealed a powerful and counter-intuitive story. The company's crisis was not a simple revenue problem, but a story of a dying business model and a failure of strategic adaptation.
+---
 
-My key findings proved the following hypotheses:
+## 📊 Live Interactive Dashboard  
 
-The company lost the "digital land grab." While the market was rapidly shifting to digital (proven by rising internet penetration in key markets), the company failed to capture this new audience, allowing faster competitors to dominate.
+Below is a snapshot of the final, single-page executive dashboard created in Power BI.  
+The full, interactive `.pbit` file is included in this repository.  
 
-The company was fighting a war on two fronts. It was simultaneously "losing the traditional land" as its older print audience declined, while failing to compete in the new digital world.
+![Power BI Dashboard Screenshot](path/to/screenshot.png) <!-- Replace with actual screenshot path -->
 
-The most critical finding was the dangerous decoupling of revenue and circulation. The data showed that readership was collapsing, but the company was charging its remaining advertisers more money just to survive. This is the classic, unsustainable financial model of a dying platform.
+---
 
-The failure was a self-inflicted wound. The data on costs revealed that the company's "digital strategy" was not a sustained effort, but a short-lived, one-year experiment that was quickly abandoned.
+## 🎯 Problem Statement  
 
-🛠️ Tools Used
-SQL (MySQL): For all data extraction, cleaning, complex analysis, and answering the 6 ad-hoc business requests.
+Bharat Herald, a legacy newspaper with a 70-year history, is facing a severe crisis. Print circulation has dropped by over **50% (2019–2024)**. The company’s **2021 digital pilot failed**, and it is now on the brink of bankruptcy.  
 
-Power BI: For creating the final, interactive executive dashboard and all data visualizations.
+My task, as the data analyst **Peter Pandey**, was to conduct a comprehensive analysis of the company’s operational and financial data to diagnose the root causes of this decline.
 
-PowerPoint & Clipchamp: For creating the final video presentation.
+---
 
-📂 Repository Contents
-This GitHub repository contains all the key assets for this project:
+## 💡 Key Findings & Hypotheses  
 
-Media_Survival_Analysis.pdf: The full, detailed PDF report explaining the entire analysis, key findings, and final recommendations.
+My analysis of the data revealed a powerful and counter-intuitive story: the company’s crisis was not simply a revenue problem but a story of a dying business model and a failure of strategic adaptation.
 
-Ad-Hoc_Request_Report.pdf: The report containing the screenshots of the results for all 6 SQL-based business requests.
+Key findings proved the following hypotheses:
 
-All_Combined.sql: A single .sql file with the final, working queries for all 6 business requests.
+- **Lost the “Digital Land Grab”**  
+  While the market was rapidly shifting to digital (supported by rising internet penetration in key markets), Bharat Herald failed to capture this new audience, allowing faster competitors to dominate.
 
-power_bi_dashboards.pbit: The complete Power BI template file. To view this, you need to have Power BI Desktop installed. The template will allow you to see the full interactive dashboard and all the underlying data models.
+- **War on Two Fronts**  
+  The company was simultaneously “losing the traditional land” (older print audience decline) while failing to compete in the digital world.
+
+- **Dangerous Decoupling of Revenue and Circulation**  
+  Readership collapsed, but advertisers were charged more to survive — a classic, unsustainable model of a dying platform.
+
+- **Self-Inflicted Wound**  
+  Cost data revealed the “digital strategy” was not a sustained effort but a one-year experiment that was quickly abandoned.
+
+---
+
+## 🛠️ Tools Used  
+
+- **SQL (MySQL):** Data extraction, cleaning, complex analysis, and answering the 6 ad-hoc business requests  
+- **Power BI:** Final interactive executive dashboard and all data visualizations  
+- **PowerPoint & Clipchamp:** Creation of the final video presentation  
+
+---
+
+## 📂 Repository Contents  
+
+| File / Folder | Description |
+|---------------|-------------|
+| `Media_Survival_Analysis.pdf` | Full detailed PDF report explaining the entire analysis, key findings, and recommendations |
+| `Ad-Hoc_Request_Report.pdf` | Screenshots/results of all 6 SQL-based business requests |
+| `All_Combined.sql` | Single SQL file containing all final working queries for the 6 business requests |
+| `power_bi_dashboards.pbit` | Complete Power BI template file (open in Power BI Desktop to view full interactive dashboard & underlying data models) |
+
+---
+
+## 🚀 How to Use  
+
+1. Clone this repository  
+2. Open `Media_Survival_Analysis.pdf` to read the full report  
+3. Open `Ad-Hoc_Request_Report.pdf` to review ad-hoc SQL results  
+4. Import `power_bi_dashboards.pbit` into **Power BI Desktop** to interact with the dashboard  
+
+---
+
+## 📬 Contact  
+
+For any questions or collaboration opportunities:  
+[LinkedIn](#) | [Email](#) <!-- Replace # with your links -->
