@@ -10,7 +10,7 @@
 The final findings of this project were presented in a video format.  
 The video walks through the complete data story — from the initial problem to the final, data-driven diagnosis.  
 
-[▶️ **Watch the Full Video Presentation on LinkedIn**](#https://www.linkedin.com/posts/r-bala-marimuthu-380501304_codebasicsresumeprojectchallenge-codebasics-activity-7378087239727329280-wN--) <!-- Replace # with your actual LinkedIn video link -->
+[▶️ **Watch the Full Video Presentation on LinkedIn**](#) <!-- Replace # with your actual LinkedIn video link -->
 
 ---
 
